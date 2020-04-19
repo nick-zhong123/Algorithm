@@ -1,4 +1,4 @@
-package com.nick.algorithm.algorithm;
+package com.nick.algorithm.leetcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

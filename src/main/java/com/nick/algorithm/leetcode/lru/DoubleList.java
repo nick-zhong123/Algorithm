@@ -1,4 +1,4 @@
-package com.nick.algorithm.algorithm.lru;
+package com.nick.algorithm.leetcode.lru;
 
 /**
  *
